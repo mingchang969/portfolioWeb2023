@@ -1,0 +1,27 @@
+
+.app{
+    padding: 0 2rem;
+    input{
+        width: 100%;
+    }
+    .add{
+        margin-top: 1.5rem;
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0.5rem;
+    }
+    .item{
+        width: 100%;
+        box-sizing: border-box;
+        padding: 1rem 1rem;
+        margin-bottom: 1rem;
+        background-color: #aaa;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .remove{
+        padding: 0 1rem;
+    }
+}
